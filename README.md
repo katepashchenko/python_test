@@ -1,1 +1,1 @@
-# Homework Data Analytycs
+# Homework Data Analytics
